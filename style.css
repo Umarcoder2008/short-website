@@ -1,0 +1,37 @@
+a{
+    text-decoration: none;
+}
+a:link{
+    color: rgb(69, 44, 206);
+}
+a:visited {
+    color: rgb(84, 69, 223);
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: red;
+}
+
+.logo img{
+    width: 130px;
+    height: 80px;
+}
+.nav-menu td{
+    padding: 10px 25px;
+}
+.nav-menu{
+    width: 50%;
+    border-top: 3px solid;
+    border-bottom: 1px solid;
+}
+.image-box{
+    padding: 10px;
+}
+.text-box{
+    width: 50%;
+}
+.text-box p{
+    margin: 0;
+}
